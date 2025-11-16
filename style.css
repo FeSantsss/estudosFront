@@ -1,0 +1,95 @@
+#heading-one {
+    color: rgb(6, 6, 7);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#h2-product {
+    color: rgb(33, 33, 33);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.books-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border-style: solid;
+    border-width: 1px;
+}
+.desc-book {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#title-book {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin: 4px;
+}
+#autor-book {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    margin: 4px;
+}
+.promo {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: red;
+    margin: 1px;
+    padding-right: 250px;
+}
+#price-before {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: line-through;
+    margin: 1px;
+}
+#price-after {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    margin: 1px;
+}
+#sifra {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: 4px;
+    padding-right: 100px;
+}
+#div-price {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+#buttom-seller {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#div-book {
+    text-align: center;
+}
+#interest-book {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+    margin: 25px;
+}
+
